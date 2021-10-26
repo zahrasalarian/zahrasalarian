@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍🎓 I'm currently studing at Amirkabir University of Technology
+- 👩‍🎓 I'm a BSc CE student at Amirkabir University of Technology
 - 🌱 I’m currently learning about AI for Medicine
 - 📫 You can reach me by my gmail
