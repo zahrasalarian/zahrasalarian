@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 -->
 
 - 👩‍🎓 I'm a BSc student of Computer Engineering at Amirkabir University of Technology.
-- 🌱 I’m currently working as a Data Scientist at [LEC GmbH](https://www.lec.at/?lang=en) company.
+- 🌱 I’m currently working as a Data Scientist at [LEC GmbH](https://www.lec.at/?lang=en).
 - 📫 You can reach me by my [email](mailto:zasalarian2000@gmail.com).
