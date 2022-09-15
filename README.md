@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **zahrasalarian/zahrasalarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍🎓 I'm a BSc student of CE at Amirkabir University of Technology
-- 🌱 I’m currently learning about AI for Medicine
-- 📫 You can reach me by my gmail
+- 👩‍🎓 I'm a BSc student of Computer Engineering at Amirkabir University of Technology.
+- 🌱 I’m currently working as a data scientist at [LEC GmbH](https://www.lec.at/?lang=en) company.
+- 📫 You can reach me by my [email](zasalarian2000@gmail.com).
