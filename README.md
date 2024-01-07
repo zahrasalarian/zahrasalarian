@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍🎓 I'm a BSc student of Computer Engineering at Amirkabir University of Technology.
+- 👩‍🎓 I am a B.Sc. graduate in Computer Engineering from Amirkabir University of Technology
+- 🌱 I am currently engaged in advancing my knowledge and research in computational and cognitive neuroscience, specifically exploring the applications of machine learning in understanding human visual perception.
 - 📫 You can reach me by my [email](mailto:zasalarian2000@gmail.com).
